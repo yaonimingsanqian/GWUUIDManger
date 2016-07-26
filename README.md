@@ -18,6 +18,6 @@
 
 ### cocopods
 
-在命令行中执行 pod search GWUUIDManger 
+在命令行中执行 pod search GWUUIDManger.  
 在Podfile中添加 
 pod 'GWUUIDManager', '~> 0.0.1' 
