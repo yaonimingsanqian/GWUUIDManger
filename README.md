@@ -4,7 +4,7 @@
 
 注意事项
 -------------------------
-1、GWUUIDManger 默认以包名为keychain.
+1、GWUUIDManger 默认以包名为keychain.\n
 2、应用卸载后再次安装能获得相同的uuid,除非用户重置手机.
 
 为什用uuid
