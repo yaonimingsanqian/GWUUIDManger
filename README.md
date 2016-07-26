@@ -1,2 +1,7 @@
-# GWUUIDManger
-get a unique identifier on iOS devices
+ GWUUIDManger
+=========================
+获取设备唯一标识符,UUID。
+
+注意事项
+-------------------------
+
